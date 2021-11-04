@@ -1,0 +1,23 @@
+/* Import Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Comfortaa:wght@300&display=swap');
+
+/* Clear padding, margin and border */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+/* Default stylings */
+body {
+    font-family: Camfortaa;
+    font-weight: 100;
+    color: #3b3b3b;
+}
+
+h1, h2 {
+    font-family: Anton;
+    font-weight: 200;
+    letter-spacing: 1px;
+    color: #303030;
+}
