@@ -53,7 +53,17 @@
 
 /* Section - ethos - text */
 .ethos-text {
-    font-size: 120%;
+    font-size: 130%;
+    height: inherit;
+    padding: 0 10px 10px 10px;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+    border-radius: 25px;
+}
+
+/* Section - ethos - text links */
+.ethos-text a {
+    color: #fff;
 }
 
 /* Section - schedule */
