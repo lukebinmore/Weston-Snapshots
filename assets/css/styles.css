@@ -188,15 +188,6 @@ footer {
     }
 }
 
-/* For screens smaller than 1000px */
-@media screen and (max-width: 1000px) {
-
-    /* Section - heading */
-    #heading div {
-        width: 90%;
-    }
-}
-
 /* For screens smaller than 800px */
 @media screen and (max-width: 800px) {
 

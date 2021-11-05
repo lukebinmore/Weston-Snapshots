@@ -28,3 +28,33 @@
     object-fit: cover;
     border-radius: 50%;
 }
+
+/* Media queries for smaller screened devices */
+/* For screens smaller than 1200px */
+@media screen and (max-width: 1200px) {
+
+    /* Section - members */
+    #members {
+        width: 90%;
+        columns: 2;
+    }
+}
+
+/* For screens smaller than 800px */
+@media screen and (max-width: 800px) {
+
+    /* Section - members */
+    #members {
+        width: 90%;
+        columns: 1;
+    }
+}
+
+/* For screens smaller than 700px */
+@media screen and (max-width: 700px) {
+
+    /* Section - members */
+    #members {
+        width: 100%;
+    }
+}
