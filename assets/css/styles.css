@@ -119,9 +119,9 @@ header {
     left: 0;
     right: 0;
     margin: auto;
-    width: 450px;
+    width: fit-content;
     text-align: center;
-    padding: 5px 10px;
+    padding: 5px 25px;
     border-radius: 20px;
     background-color: #303030e1;
 }
