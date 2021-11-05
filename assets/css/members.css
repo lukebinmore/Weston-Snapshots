@@ -3,3 +3,25 @@
 #title-image {
     background: #fff url("../images/placeholder.png") no-repeat center center/cover;
 }
+
+/* Section - members */
+#members {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #303030;
+    text-align: center;
+    columns: 3;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.members-container {
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 25px;
+}
+
+.members-container img {
+    object-fit: cover;
+    border-radius: 50%;
+}
