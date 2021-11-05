@@ -3,3 +3,13 @@
 #title-image {
     background: #fff url("../images/placeholder.png") no-repeat center center/cover;
 }
+
+/* Section - heading */
+#heading {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 160%;
+    background-color: #303030;
+}
