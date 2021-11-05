@@ -12,14 +12,14 @@
 body {
     font-family: Camfortaa;
     font-weight: 100;
-    color: #303030;
+    color: #fff;
 }
 
 h1, h2 {
     font-family: Anton;
     font-weight: 200;
     letter-spacing: 1px;
-    color: #303030;
+    color: #fff;
 }
 
 /* Header */
@@ -38,7 +38,6 @@ header {
 #active-page {
     float: left;
     font-size: 250%;
-    color: #fff;
 }
 
 /* Navigation - menu */
@@ -46,7 +45,6 @@ header {
     float: right;
     list-style: none;
     font-size: 150%;
-    color: #fff;
 }
 
 /* Navigation - items */
@@ -84,13 +82,59 @@ header {
     background-color: #d9d9d9;
 }
 
+/* Section - page title */
+#title {
+    margin-top: 78px;
+    height: 30vh;
+    overflow: hidden;
+    position: relative;
+}
 
+/* Section - page title - cover image */
+#title-image {
+    background: #fff url("../images/placeholder.png") no-repeat center center/cover;
+    width: 100%;
+    height: 100%;
 
+    animation-name: title-animation;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
+}
 
+/* Section - page title - cover image - animation */
+@keyframes title-animation {
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.1);
+    }
+}
 
+/* Section - page title - cover text */
+#title-text {
+    text-transform: uppercase;
+    position: absolute;
+    bottom: 5%;    
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 550px;
+    text-align: center;
+    padding: 5px 10px;
+    border-radius: 20px;
+    background-color: #303030d1;
+}
 
+/* Section - page title - cover text - heading */
+#title-text h1 {
+    font-size: 250%;
+}
 
-
+/* Section - page title - cover text - heading */
+#title-text p {
+    font-size: 110%;
+}
 
 /* Footer */
 footer {
