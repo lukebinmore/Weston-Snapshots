@@ -13,14 +13,14 @@
 body {
     font-family: Camfortaa;
     font-weight: 100;
-    color: #fff;
+    color: #303030;
 }
 
 h1, h2 {
     font-family: Anton;
     font-weight: 200;
     letter-spacing: 1px;
-    color: #fff;
+    color: #303030;
 }
 
 /* Header */
@@ -40,6 +40,7 @@ header {
     float: left;
     font-size: 250%;
     text-transform: uppercase;
+    color: #fff;
 }
 
 /* Navigation - menu */
@@ -90,6 +91,7 @@ header {
     height: 30vh;
     overflow: hidden;
     position: relative;
+    color: #fff;
 }
 
 /* Section - page title - cover image */
@@ -130,6 +132,7 @@ header {
 #title-text h1 {
     font-size: 250%;
     text-transform: uppercase;
+    color: #fff;
 }
 
 /* Section - page title - cover text - heading */
