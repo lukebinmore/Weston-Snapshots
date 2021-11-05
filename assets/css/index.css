@@ -1,0 +1,5 @@
+/* Index specific stylings */
+/* Section - page title - cover image */
+#title-image {
+    background: #fff url("../images/placeholder.png") no-repeat center center/cover;
+}
