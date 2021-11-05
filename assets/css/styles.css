@@ -28,7 +28,7 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    height: 78px;
+    height: 75px;
     line-height: 75px;
     padding: 0 20px;
     background-color: #303030;
@@ -49,29 +49,17 @@ header {
     float: right;
     list-style: none;
     font-size: 150%;
+    height: 45px;
+    margin-top: 15px;
+    line-height: 45px;
+    border-radius: 25px;
+    background-color: #fff;
 }
 
 /* Navigation - items */
 #menu li {
     float: left;
-    background-color: #fff;
     color: #303030;
-}
-
-/* Navigation - items - left most item */
-.nav-left {
-    border-bottom-left-radius: 35%;
-    padding: 0 10px 0 20px;
-}
-
-/* Navigation - items - right most item */
-.nav-right {
-    border-bottom-right-radius: 35%;
-    padding: 0 20px 0 10px;
-}
-
-/* Navigation - items - center most items */
-.nav-center {
     padding: 0 10px;
 }
 
@@ -84,11 +72,12 @@ header {
 /* Navigation - items - hover */
 #menu li:hover {
     background-color: #d9d9d9;
+    border-radius: 25px;
 }
 
 /* Section - page title */
 #title {
-    margin-top: 78px;
+    margin-top: 75px;
     height: 30vh;
     overflow: hidden;
     position: relative;
