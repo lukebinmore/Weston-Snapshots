@@ -36,7 +36,7 @@ header {
     z-index: 2;
 }
 
-/* Active page identifier - top right */
+/* Active page identifier - top left */
 #active-page {
     float: left;
     font-size: 250%;
@@ -50,6 +50,7 @@ header {
     list-style: none;
     font-size: 150%;
     height: 45px;
+    width: fit-content;
     margin-top: 15px;
     line-height: 45px;
     border-radius: 25px;
@@ -156,4 +157,36 @@ footer {
     color: #fff;
     margin: 0 50px;
     line-height: 50px;
+}
+
+/* Media queries for smaller screened devices */
+/* For screens smaller than 800px */
+@media screen and (max-width: 800px){
+    /* Header */
+    header {
+        height: 150px;
+        position: absolute;
+    }
+
+    /* Active page identifier - top left */
+    #active-page {
+        float: none;
+        text-align: center;
+    }
+
+    /* Navigation - menu */
+    #menu {
+        float: none;
+        margin: 5px auto;
+    }
+
+    /* Footer */
+    footer {
+        position: relative;
+    }
+
+    /* Social networks - items - icons */
+    .social-networks i {
+        margin: 0 20px;
+    }
 }
