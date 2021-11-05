@@ -45,6 +45,12 @@ header {
     color: #fff;
 }
 
+/* Active page identifier - link - top left*/
+#active-page a {
+    color: #fff;
+    text-decoration: none;
+}
+
 /* Navigation - menu */
 #menu {
     float: right;
