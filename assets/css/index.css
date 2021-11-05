@@ -24,7 +24,6 @@
     vertical-align: middle;
     margin: 5px;
     box-sizing: border-box;
-    
 }
 
 /* Section - ethos - text */
@@ -47,10 +46,10 @@
 
 /* Section - schedule */
 #schedule {
-    width: 1000px;
+    width: 80%;
     margin: 0 auto 50px auto;
     list-style: none;
-    padding: 30px 20px;
+    padding: 30px 15px;
     background-color: #303030;
 }
 
@@ -72,6 +71,7 @@
     color: #303030;
     text-align: center;
     margin: 10px;
+    vertical-align: top;
 }
 
 /* Section - schedule - items - text container */
