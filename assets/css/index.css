@@ -79,12 +79,6 @@
     vertical-align: top;
 }
 
-/* Section - schedule - items - text container */
-.schedule-day {
-    display: inline-block;
-    height: 100%;
-}
-
 /* Section - schedule - text */
 .schedule-day h1 {
     display: inline;
