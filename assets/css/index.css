@@ -140,6 +140,11 @@
         width: 98%;
     }
 
+    /* Section - ethos - text */
+    .ethos-text {
+        height: auto;
+    }
+
     /* Section - schedule - text */
     .schedule-day h1 {
         display: block;
