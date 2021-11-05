@@ -12,7 +12,7 @@
 body {
     font-family: Camfortaa;
     font-weight: 100;
-    color: #3b3b3b;
+    color: #303030;
 }
 
 h1, h2 {
@@ -20,4 +20,65 @@ h1, h2 {
     font-weight: 200;
     letter-spacing: 1px;
     color: #303030;
+}
+
+/* Header */
+header {
+    position: fixed;
+    width: 100%;
+    height: 78px;
+    line-height: 75px;
+    padding: 0 20px;
+    background-color: #303030;
+    box-sizing: border-box;
+}
+
+/* Active page identifier - top right */
+#active-page {
+    float: left;
+    font-size: 250%;
+    color: #fff;
+}
+
+/* Navigation menu */
+#menu {
+    float: right;
+    list-style: none;
+    font-size: 150%;
+    color: #fff;
+}
+
+/* Navigation items */
+#menu li {
+    float: left;
+    background-color: #fff;
+    color: #303030;
+}
+
+/* Navigation items - left most item */
+.nav-left {
+    border-bottom-left-radius: 35%;
+    padding: 0 10px 0 20px;
+}
+
+/* Navigation items - right most item */
+.nav-right {
+    border-bottom-right-radius: 35%;
+    padding: 0 20px 0 10px;
+}
+
+/* Navigation items - center most items */
+.nav-center {
+    padding: 0 10px;
+}
+
+/* Navigation items - links */
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Navigation items - hover */
+#menu li:hover {
+    background-color: #d9d9d9;
 }
