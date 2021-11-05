@@ -140,6 +140,17 @@ header {
     text-transform: capitalize;
 }
 
+/* Section - heading */
+#heading div {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    font-size: 160%;
+    box-sizing: border-box;
+    background-color: #303030;
+}
+
 /* Footer */
 footer {
     position: fixed;
@@ -168,6 +179,24 @@ footer {
 }
 
 /* Media queries for smaller screened devices */
+/* For screens smaller than 1200px */
+@media screen and (max-width: 1200px) {
+
+    /* Section - heading */
+    #heading div {
+        width: 90%;
+    }
+}
+
+/* For screens smaller than 1000px */
+@media screen and (max-width: 1000px) {
+
+    /* Section - heading */
+    #heading div {
+        width: 90%;
+    }
+}
+
 /* For screens smaller than 800px */
 @media screen and (max-width: 800px) {
 
@@ -197,5 +226,14 @@ footer {
     /* Social networks - items - icons */
     .social-networks i {
         margin: 0 20px;
+    }
+}
+
+/* For screens smaller than 700px */
+@media screen and (max-width: 700px) {
+
+    /* Section - heading */
+    #heading div {
+        width: 100%;
     }
 }
