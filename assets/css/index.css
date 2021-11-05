@@ -3,3 +3,52 @@
 #title-image {
     background: #fff url("../images/placeholder.png") no-repeat center center/cover;
 }
+
+/* Section - ethos */
+#ethos {
+    text-align: center;
+    padding: 20px 15%;
+    background-color: gray;
+}
+
+/* Section - ethos - row containers */
+#ethos > div {
+    clear: both;
+    height: fit-content;
+    width: 85%;
+    margin: 0 auto;
+}
+
+/* Section - ethos - left column */
+.ethos-left {
+    float: left;
+    width: 33%;
+}
+
+/* Section - ethos - right column */
+.ethos-right {
+    float: right;
+    width: 33%;
+}
+
+/* Section - ethos - center column */
+.ethos-center {
+    width: 33%;  
+    margin: 0 auto;
+}
+
+/* Section - ethos - images container */
+.ethos-image {
+    border-radius: 25px;
+    overflow: hidden;
+}
+
+/* Section - ethos - image */
+.ethos-image > img {
+    border-radius: inherit;
+}
+
+/* Section - ethos - text */
+.ethos-text {
+    
+}
