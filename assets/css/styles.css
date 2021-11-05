@@ -33,6 +33,7 @@ header {
     padding: 0 20px;
     background-color: #303030;
     box-sizing: border-box;
+    z-index: 2;
 }
 
 /* Active page identifier - top right */
