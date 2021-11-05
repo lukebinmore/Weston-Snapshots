@@ -13,14 +13,14 @@
 body {
     font-family: Camfortaa;
     font-weight: 100;
-    color: #303030;
+    color: #fff;
 }
 
 h1, h2 {
     font-family: Anton;
     font-weight: 200;
     letter-spacing: 1px;
-    color: #303030;
+    color: #fff;
 }
 
 /* Header */

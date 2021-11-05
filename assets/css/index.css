@@ -15,9 +15,8 @@
     width: 1000px;
     height: 250px;
     margin: 0 auto;
-    padding: 20px 10px;
-    border-left: 5px solid #303030;
-    border-right: 5px solid #303030;
+    padding: 20px 20px;
+    background-color: #303030;
 }
 
 /* Section - ethos - left column */
@@ -62,16 +61,14 @@
     width: 1000px;
     margin: 0 auto 50px auto;
     list-style: none;
-    padding: 30px 10px;
-    border-left: 5px solid #303030;
-    border-right: 5px solid #303030;
+    padding: 30px 20px;
+    background-color: #303030;
 }
 
 /* Section - schedule - items */
 #schedule li {
     width: 90%;
     margin: 5px auto;
-    border: 5px solid #303030;
     border-radius: 25px;
     background: url("../images/placeholder.png") no-repeat center center/cover;
 }
@@ -80,8 +77,12 @@
 .schedule-icon {
     display: inline-block;
     font-size: 350%;
-    margin: 10px;
+    height: 75px;
     width: 75px;
+    line-height: 75px;
+    color: #303030;
+    text-align: center;
+    margin: 10px;
 }
 
 /* Section - schedule - items - text container */
@@ -93,9 +94,10 @@
 /* Section - schedule - text */
 .schedule-day h1 {
     display: inline;
+    color: #303030;
 }
 
 /* Section - schedule - details */
 .schedule-day details {
-    
+    color: #303030;
 }
