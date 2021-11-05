@@ -40,7 +40,7 @@ header {
     color: #fff;
 }
 
-/* Navigation menu */
+/* Navigation - menu */
 #menu {
     float: right;
     list-style: none;
@@ -48,37 +48,71 @@ header {
     color: #fff;
 }
 
-/* Navigation items */
+/* Navigation - items */
 #menu li {
     float: left;
     background-color: #fff;
     color: #303030;
 }
 
-/* Navigation items - left most item */
+/* Navigation - items - left most item */
 .nav-left {
     border-bottom-left-radius: 35%;
     padding: 0 10px 0 20px;
 }
 
-/* Navigation items - right most item */
+/* Navigation - items - right most item */
 .nav-right {
     border-bottom-right-radius: 35%;
     padding: 0 20px 0 10px;
 }
 
-/* Navigation items - center most items */
+/* Navigation - items - center most items */
 .nav-center {
     padding: 0 10px;
 }
 
-/* Navigation items - links */
+/* Navigation - items - links */
 #menu a {
     text-decoration: none;
     color: inherit;
 }
 
-/* Navigation items - hover */
+/* Navigation - items - hover */
 #menu li:hover {
     background-color: #d9d9d9;
+}
+
+
+
+
+
+
+
+
+/* Footer */
+footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    height: 50px;
+    background-color: #303030;
+}
+
+/* Social networks - list*/
+.social-networks {
+    text-align: center;
+}
+
+/* Social networks - items */
+.social-networks > li {
+    display: inline-block;
+}
+
+/* Social networks - items - icons */
+.social-networks i {
+    font-size: 210%;
+    color: #fff;
+    margin: 0 50px;
+    line-height: 50px;
 }
