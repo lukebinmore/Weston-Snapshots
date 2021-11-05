@@ -38,6 +38,7 @@ header {
 #active-page {
     float: left;
     font-size: 250%;
+    text-transform: uppercase;
 }
 
 /* Navigation - menu */
@@ -113,27 +114,28 @@ header {
 
 /* Section - page title - cover text */
 #title-text {
-    text-transform: uppercase;
     position: absolute;
     bottom: 5%;    
     left: 0;
     right: 0;
     margin: auto;
-    width: 550px;
+    width: 450px;
     text-align: center;
     padding: 5px 10px;
     border-radius: 20px;
-    background-color: #303030d1;
+    background-color: #303030e1;
 }
 
 /* Section - page title - cover text - heading */
 #title-text h1 {
     font-size: 250%;
+    text-transform: uppercase;
 }
 
 /* Section - page title - cover text - heading */
 #title-text p {
     font-size: 110%;
+    text-transform: capitalize;
 }
 
 /* Footer */
