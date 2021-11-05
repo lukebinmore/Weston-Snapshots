@@ -5,6 +5,11 @@
 }
 
 /* Section - gallery */
+#gallery {
+    margin-bottom: 50px;
+}
+
+/* Section - gallery - container*/
 #gallery div {
     width: 80%;
     margin: 0 auto;
