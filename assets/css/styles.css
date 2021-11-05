@@ -16,7 +16,8 @@ body {
     color: #fff;
 }
 
-h1, h2 {
+h1,
+h2 {
     font-family: Anton;
     font-weight: 200;
     letter-spacing: 1px;
@@ -97,10 +98,11 @@ header {
 
 /* Section - page title - cover image - animation */
 @keyframes title-animation {
-    from{
+    from {
         transform: scale(1);
     }
-    to{
+
+    to {
         transform: scale(1.1);
     }
 }
@@ -108,7 +110,7 @@ header {
 /* Section - page title - cover text */
 #title-text {
     position: absolute;
-    bottom: 5%;    
+    bottom: 5%;
     left: 0;
     right: 0;
     margin: auto;
@@ -147,7 +149,7 @@ footer {
 }
 
 /* Social networks - items */
-.social-networks > li {
+.social-networks>li {
     display: inline-block;
 }
 
@@ -161,7 +163,8 @@ footer {
 
 /* Media queries for smaller screened devices */
 /* For screens smaller than 800px */
-@media screen and (max-width: 800px){
+@media screen and (max-width: 800px) {
+
     /* Header */
     header {
         height: 150px;
