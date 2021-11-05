@@ -5,7 +5,7 @@
 }
 
 /* Section - heading */
-#heading div{
+#heading div {
     text-align: center;
     width: 80%;
     margin: 0 auto;
@@ -31,4 +31,49 @@
     width: 100%;
     margin: 5px 0;
     object-fit: cover;
+}
+
+/* Media queries for smaller screened devices */
+/* For screens smaller than 1200px */
+@media screen and (max-width: 1200px) {
+
+    /* Section - heading */
+    #heading div {
+        width: 90%;
+    }
+
+    /* Section - gallery */
+    #gallery div {
+        width: 90%;
+        columns: 2;
+    }
+}
+
+/* For screens smaller than 1000px */
+@media screen and (max-width: 1000px) {
+
+    /* Section - heading */
+    #heading div {
+        width: 90%;
+    }
+
+    /* Section - gallery */
+    #gallery div {
+        width: 90%;
+        columns: 1;
+    }
+}
+
+/* For screens smaller than 700px */
+@media screen and (max-width: 700px) {
+
+    /* Section - heading */
+    #heading div {
+        width: 100%;
+    }
+
+    /* Section - gallery */
+    #gallery div {
+        width: 100%;
+    }
 }
