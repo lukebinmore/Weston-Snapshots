@@ -56,7 +56,6 @@ header {
     float: right;
     list-style: none;
     font-size: 150%;
-    height: 45px;
     width: fit-content;
     margin-top: 15px;
     line-height: 45px;
@@ -66,7 +65,7 @@ header {
 
 /* Navigation - items */
 #menu li {
-    float: left;
+    display: inline-block;
     color: #303030;
     padding: 0 10px;
 }
@@ -226,5 +225,14 @@ footer {
     /* Section - heading */
     #heading div {
         width: 100%;
+    }
+}
+
+/* For screens smaller than 500px */
+@media screen and (max-width: 500px) {
+
+    /* Navigation - menu */
+    #menu {
+        font-size: 100%;
     }
 }

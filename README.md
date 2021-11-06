@@ -16,11 +16,11 @@
 
 
 
-- __Club Ethos Section__
+- __Club Ethos section__
 
 
 
-- __Meetup Times section__
+- __Schedule section__
 
 
 
@@ -32,11 +32,7 @@
 
 
 
-- __Gallery Submissions Form__
-
-
-
-- __The Sign Up Page__
+- __The Join Us Page__
 
 
 
