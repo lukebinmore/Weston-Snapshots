@@ -140,7 +140,7 @@ header {
 }
 
 /* Section - heading */
-#heading div {
+#heading {
     text-align: center;
     width: 80%;
     margin: 0 auto;
@@ -182,7 +182,7 @@ footer {
 @media screen and (max-width: 1200px) {
 
     /* Section - heading */
-    #heading div {
+    #heading {
         width: 90%;
     }
 }
@@ -228,7 +228,7 @@ footer {
 @media screen and (max-width: 700px) {
 
     /* Section - heading */
-    #heading div {
+    #heading {
         width: 100%;
     }
 }
