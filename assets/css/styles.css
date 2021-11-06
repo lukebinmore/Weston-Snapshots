@@ -193,7 +193,7 @@ footer {
     /* Header */
     header {
         height: 150px;
-        position: absolute;
+        position: relative;
     }
 
     /* Active page identifier - top left */
@@ -206,6 +206,11 @@ footer {
     #menu {
         float: none;
         margin: 5px auto;
+    }
+
+    /* Section - page title */
+    #title {
+        margin-top: 0;
     }
 
     /* Footer */
