@@ -48,6 +48,11 @@
         width: 90%;
         columns: 1;
     }
+
+    /* Section - members */
+    #members {
+        margin-bottom: 0;
+    }
 }
 
 /* For screens smaller than 700px */

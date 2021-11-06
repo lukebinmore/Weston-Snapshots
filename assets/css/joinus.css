@@ -78,6 +78,15 @@
     }
 }
 
+/* For screens smaller than 800px */
+@media screen and (max-width: 800px) {
+
+    /* Section - joinus */
+    #joinus {
+        margin-bottom: 0;
+    }
+}
+
 /* For screens smaller than 700px */
 @media screen and (max-width: 700px) {
 
