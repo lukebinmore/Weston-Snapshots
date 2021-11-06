@@ -95,3 +95,18 @@
         width: 100%;
     }
 }
+
+/* For screens smaller than 500px */
+@media screen and (max-width: 500px) {
+
+    /* Section - joinus form - items */
+    .input-text {
+        width: 95%;
+        font-size: 200%;
+    }
+
+    /* Section - joinus form - newsletter label*/
+    #joinus label {
+        font-size: 200%;
+    }
+}
