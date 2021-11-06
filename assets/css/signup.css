@@ -3,3 +3,67 @@
 #title-image {
     background: #fff url("../images/placeholder.png") no-repeat center center/cover;
 }
+
+/* Section - joinus */
+#joinus {
+    margin-bottom: 50px;
+}
+
+/* Section - joinus form */
+#joinus form {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0;
+    background-color: #303030;
+    text-align: center;
+}
+
+/* Section - joinus form - items */
+.input-text {
+    width: 70%;
+    background: transparent;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    font-size: 250%;
+    margin: 10px 0;
+    text-align: center;
+    color: #fff;
+}
+
+/* Section - joinus form - items - hover */
+.input-text:hover {
+    background-color: #393939;
+}
+
+/* Section - joinus form - items - placeholder*/
+.input-text::placeholder {
+    text-align: center;
+    color: #fff;
+}
+
+/* Section - joinus form - items - checkbox*/
+.input-checkbox {
+    transform: scale(1.5);
+    margin: 10px;
+}
+
+/* Section - joinus form - newsletter label*/
+#joinus label {
+    display: block;
+    font-size: 250%;
+}
+
+/* Section - joinus form - buttons*/
+.joinus-button {
+    display: block;
+    margin: 10px auto;
+    background-color: #fff;
+    border-radius: 25px;
+    padding: 20px;
+    font-size: 150%;
+}
+
+/* Section - joinus form - buttons - hover*/
+.joinus-button:hover {
+    background-color: #d9d9d9;
+}
