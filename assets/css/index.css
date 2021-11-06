@@ -1,7 +1,7 @@
 /* Index specific stylings */
 /* Section - page title - cover image */
 #title-image {
-    background: #fff url("../images/placeholder.png") no-repeat top center/cover;
+    background: #fff url("../images/index-banner-image.jpg") no-repeat bottom center/cover;
 }
 
 /* Section - ethos */
