@@ -4,17 +4,6 @@
     background: #fff url("../images/index-banner-image.jpg") no-repeat bottom center/cover;
 }
 
-/* Section - ethos */
-#ethos {
-    width: 80%;
-    height: fit-content;
-    margin: 0 auto;
-    padding: 15px;
-    text-align: center;
-    box-sizing: border-box;
-    background-color: #303030;
-}
-
 /* Section - ethos - blocks */
 .ethos-block {
     width: 32%;
@@ -44,18 +33,8 @@
     color: #fff;
 }
 
-/* Section - schedule */
-#schedule {
-    width: 80%;
-    margin: 0 auto 50px auto;
-    padding: 30px;
-    background-color: #303030;
-    text-align: center;
-    box-sizing: border-box;
-}
-
 /* Section - schedule - table*/
-#schedule table {
+#schedule {
     margin: 0 auto;
     border-spacing: 0 10px;
 }
@@ -117,34 +96,9 @@
 /* For screens smaller than 1200px */
 @media screen and (max-width: 1200px) {
 
-    /* Section - ethos */
-    #ethos {
-        width: 90%;
-    }
-
     /* Section - ethos - blocks */
     .ethos-block {
         width: 48%;
-    }
-
-    /* Section - schedule */
-    #schedule {
-        width: 90%;
-    }
-}
-
-/* For screens smaller than 800px */
-@media screen and (max-width: 800px) {
-
-    /* Section - ethos */
-    #ethos {
-        width: 100%;
-    }
-
-    /* Section - schedule */
-    #schedule {
-        width: 100%;
-        margin-bottom: 0;
     }
 }
 
@@ -169,11 +123,6 @@
 
 /* For screens smaller than 450px */
 @media screen and (max-width: 475px) {
-
-    /* Section - schedule */
-    #schedule {
-        padding: 10px;
-    }
 
     /* Section - schedule - text */
     .schedule-day {
