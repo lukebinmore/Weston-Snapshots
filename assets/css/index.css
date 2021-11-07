@@ -65,7 +65,6 @@
 .schedule-right {
     width: 75px;
     height: 75px;
-    padding: 10px;
     vertical-align: center;
     border-top: 1px solid #fff;
     border-bottom: 1px solid #fff;
@@ -163,7 +162,21 @@
     }
 
     /* Section - schedule - text */
-    .schedule-day h1 {
+    .schedule-day h2 {
         display: block;
+    }
+}
+
+/* For screens smaller than 450px */
+@media screen and (max-width: 475px) {
+
+    /* Section - schedule */
+    #schedule {
+        padding: 10px;
+    }
+
+    /* Section - schedule - text */
+    .schedule-day {
+        font-size: 75%;
     }
 }
