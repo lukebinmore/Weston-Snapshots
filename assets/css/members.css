@@ -6,13 +6,7 @@
 
 /* Section - members */
 #members {
-    width: 80%;
-    margin: 0 auto 50px auto;
-    background-color: #303030;
-    text-align: center;
     columns: 3;
-    box-sizing: border-box;
-    padding: 10px;
 }
 
 /* Section - members - container*/
@@ -36,7 +30,6 @@
 
     /* Section - members */
     #members {
-        width: 90%;
         columns: 2;
     }
 }
@@ -46,21 +39,6 @@
 
     /* Section - members */
     #members {
-        width: 90%;
         columns: 1;
-    }
-
-    /* Section - members */
-    #members {
-        margin-bottom: 0;
-    }
-}
-
-/* For screens smaller than 700px */
-@media screen and (max-width: 700px) {
-
-    /* Section - members */
-    #members {
-        width: 100%;
     }
 }
