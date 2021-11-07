@@ -6,15 +6,7 @@
 
 /* Section - gallery - container*/
 #gallery {
-    width: 80%;
-    margin: 0 auto;
-    background-color: #303030;
-    text-align: center;
     columns: 3;
-    padding: 10px;
-    box-sizing: border-box;
-
-    margin-bottom: 50px;
 }
 
 /* Section - gallery - images*/
@@ -31,7 +23,6 @@
 
     /* Section - gallery */
     #gallery {
-        width: 90%;
         columns: 2;
     }
 }
@@ -41,25 +32,6 @@
 
     /* Section - gallery */
     #gallery {
-        width: 90%;
         columns: 1;
-    }
-}
-
-/* For screens smaller than 800px */
-@media screen and (max-width: 800px) {
-
-    /* Section - gallery */
-    #gallery {
-        margin-bottom: 0;
-    }
-}
-
-/* For screens smaller than 700px */
-@media screen and (max-width: 700px) {
-
-    /* Section - gallery */
-    #gallery {
-        width: 100%;
     }
 }
