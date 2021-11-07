@@ -4,18 +4,10 @@
     background: #fff url("../images/joinus-banner-image.jpg") no-repeat center center/cover;
 }
 
-/* Section - joinus */
-#joinus {
-    margin-bottom: 50px;
-}
-
 /* Section - joinus form */
-#joinus form {
+#joinus {
     width: 80%;
     margin: 0 auto;
-    padding: 20px 0;
-    background-color: #303030;
-    text-align: center;
 }
 
 /* Section - joinus form - items */
@@ -69,35 +61,13 @@
 }
 
 /* Media queries for smaller screened devices */
-/* For screens smaller than 1200px */
-@media screen and (max-width: 1200px) {
-
-    /* Section - joinus form */
-    #joinus form {
-        width: 90%;
-    }
-}
-
-/* For screens smaller than 800px */
-@media screen and (max-width: 800px) {
-
-    /* Section - joinus */
-    #joinus {
-        margin-bottom: 0;
-    }
-}
-
-/* For screens smaller than 700px */
-@media screen and (max-width: 700px) {
-
-    /* Section - joinus form */
-    #joinus form {
-        width: 100%;
-    }
-}
-
 /* For screens smaller than 500px */
 @media screen and (max-width: 500px) {
+
+    /* Section - joinus form */
+    #joinus {
+        width: 100%;
+    }
 
     /* Section - joinus form - items */
     .input-text {
