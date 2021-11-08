@@ -84,6 +84,7 @@
 .schedule-day details {
     font-size: 120%;
     border-radius: 25px;
+    border: 1px solid #fff;
 }
 
 /* Section - schedule - details - hover */
