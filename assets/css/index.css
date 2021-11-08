@@ -1,6 +1,6 @@
 /* Index specific stylings */
 /* Section - page title - cover image */
-#title-image {
+#page-title-image {
     background: #fff url("../images/index-banner-image.jpg") no-repeat bottom center/cover;
 }
 

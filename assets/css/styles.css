@@ -36,16 +36,16 @@ header {
     z-index: 2;
 }
 
-/* Active page identifier - top left */
-#active-page {
+/* Site title - top left */
+#site-title {
     float: left;
     font-size: 250%;
     text-transform: uppercase;
     color: #fff;
 }
 
-/* Active page identifier - link - top left*/
-#active-page a {
+/* Site title - link - top left*/
+#site-title a {
     color: #fff;
     text-decoration: none;
 }
@@ -89,7 +89,7 @@ header {
 }
 
 /* Section - page title */
-#title {
+#page-title {
     margin-top: 75px;
     height: 30vh;
     overflow: hidden;
@@ -98,17 +98,17 @@ header {
 }
 
 /* Section - page title - cover image */
-#title-image {
+#page-title-image {
     width: 100%;
     height: 100%;
 
-    animation-name: title-animation;
+    animation-name: page-title-animation;
     animation-duration: 5s;
     animation-fill-mode: forwards;
 }
 
 /* Section - page title - cover image - animation */
-@keyframes title-animation {
+@keyframes page-title-animation {
     from {
         transform: scale(1.1);
     }
@@ -119,7 +119,7 @@ header {
 }
 
 /* Section - page title - cover text */
-#title-text {
+#page-title-text {
     position: absolute;
     bottom: 5%;
     lefT: 0;
@@ -133,14 +133,14 @@ header {
 }
 
 /* Section - page title - cover text - heading */
-#title-text h2 {
+#page-title-text h2 {
     font-size: 250%;
     text-transform: uppercase;
     color: #fff;
 }
 
 /* Section - page title - cover text - heading */
-#title-text p {
+#page-title-text p {
     font-size: 110%;
     text-transform: capitalize;
 }
@@ -214,8 +214,8 @@ footer {
         position: relative;
     }
 
-    /* Active page identifier - top left */
-    #active-page {
+    /* Site title - top left */
+    #site-title {
         float: none;
         text-align: center;
     }
@@ -227,7 +227,7 @@ footer {
     }
 
     /* Section - page title */
-    #title {
+    #page-title {
         margin-top: 0;
     }
 
@@ -262,8 +262,8 @@ footer {
         padding: 0;
     }
 
-    /* Active page identifier - top left */
-    #active-page {
+    /* Site title - top left */
+    #site-title {
         font-size: 180%;
     }
 
@@ -280,7 +280,7 @@ footer {
     }
 
     /* Section - page title - cover text - heading */
-    #title-text h2 {
+    #page-title-text h2 {
         font-size: 190%;
     }
 }
