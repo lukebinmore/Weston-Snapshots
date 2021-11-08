@@ -164,7 +164,7 @@ header {
 /* Footer */
 footer {
     position: fixed;
-    width: 100%;
+    width: 80%;
     bottom: 0;
     height: 50px;
     background-color: #303030;
@@ -203,6 +203,11 @@ footer {
     .section-container {
         width: 90%;
     }
+
+    /* Footer */
+    .footer-spacer {
+        width: 90%;
+    }
 }
 
 /* For screens smaller than 800px */
@@ -239,13 +244,14 @@ footer {
     }
 
     /* Footer */
-    footer {
-        position: relative;
+    .footer-spacer {
+        width: 100%;
+        height: 0;
     }
 
-    /* Footer - spacer */
-    .footer-spacer {
-        height: 0;
+    /* Footer */
+    footer {
+        position: relative;
     }
 
     /* Social networks - items - icons */
