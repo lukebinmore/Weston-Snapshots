@@ -272,4 +272,9 @@ footer {
     #menu li:hover {
         border-radius: 0;
     }
+
+    /* Section - page title - cover text - heading */
+    #title-text h2 {
+        font-size: 190%;
+    }
 }
