@@ -60,6 +60,26 @@
     background-color: #d9d9d9;
 }
 
+/* Section - joinus thanks */
+#joinus-thanks {
+    padding: 0 15% 20px 15%;
+}
+
+/* Section - joinus thanks - icon*/
+#joinus-thanks i {
+    font-size: 1900%;
+}
+
+/* Section - joinus thanks - heading*/
+#joinus-thanks h2 {
+    font-size: 200%;
+}
+
+/* Section - joinus thanks - text*/
+#joinus-thanks p {
+    font-size: 150%;
+}
+
 /* Media queries for smaller screened devices */
 /* For screens smaller than 500px */
 @media screen and (max-width: 500px) {
@@ -78,5 +98,10 @@
     /* Section - joinus form - newsletter label*/
     #joinus label {
         font-size: 200%;
+    }
+
+    /* Section - joinus thanks */
+    #joinus-thanks {
+        padding: 0 15px 15px 15px;
     }
 }
