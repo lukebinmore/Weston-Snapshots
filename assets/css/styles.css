@@ -256,6 +256,11 @@ footer {
         padding: 0;
     }
 
+    /* Active page identifier - top left */
+    #active-page {
+        font-size: 180%;
+    }
+
     /* Navigation - menu */
     #menu {
         font-size: 100%;
