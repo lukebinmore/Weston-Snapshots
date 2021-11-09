@@ -14,6 +14,7 @@ The purpose of the site is to provide a point of contact for the club/community 
   * The navigation menu can be found on every page, and provides the user with the ability to easily navigate to any page on the site.
   * Site pages included: Home, Gallery, Members, Join Us!
   * This feature is responsive in design, and will remain at the top of the page when scrolling unless on small screens.
+
 ![Navigation Menu](media/weston-snapshots-navigation.png)
 
 * __Page Heading__
@@ -22,6 +23,7 @@ The purpose of the site is to provide a point of contact for the club/community 
     * A panorama image showing off some members photos of Weston-super-Mare's seafront.
     * A page heading.
     * A short and interesting phrase relating to the page content.
+
 ![Page Heading](media/weston-snapshots-page-heading.png)
 
 * __Footer__
@@ -32,16 +34,19 @@ The purpose of the site is to provide a point of contact for the club/community 
     * Youtube
     * Instagram
   * This feature encourages the user to keep up with the social offerings of the Weston Snapshots club/community.
+
 ![Footer](media/weston-snapshots-footer.png)
 
 * __Club Ethos__
   * The club ethos section of the home page provides the user with some information about the club/community, and what they are about.
   * The aim of this section is to inform the user of what kinds of people make up the club/community, What they do when they meet, and how to join the club/community.
+
 ![Club Ethos](media/weston-snapshots-club-ethos.png)
 
 * __Club Schedule__
   * The schedule section on the home page outlines the normal schedule of the club/community, demonstrating when they meet and what they do on those days.
   * This section should be updated if/when these times/activities change
+
 ![Schedule](media/weston-snapshots-schedule.png)
 
 * __Gallery__
@@ -50,22 +55,33 @@ The purpose of the site is to provide a point of contact for the club/community 
     * The capability of the current members
     * The amount they can learn and improve with the help of the group
     * The beautifull sites and locations in Weston-super-Mare that are ready and waiting to be photographed
+
 ![Gallery](media/weston-snapshots-schedule.png)
 
 * __Members Page__
   * The members page shows the names and pictures of the current members (Those that have agreed to be included).
   * This is valuble for the user, as it shows the diversity in age, gender and backgrounds of the community, showing the club/community is inclusive of everyone.
+
 ![Members](media/weston-snapshots-members.png)
 
 * __Join Us Page__
   * The signup page provides the user with a form to fill in to join the community and get started on their photography journey.
   * On completing the form, the user is taken to a thanks page that let's them know what will happen next, and thank them for joining.
+
 ![Join Us Form](media/weston-snapshots-joinus-form.png)
 ![Join Us Thanks](media/weston-snapshots-joinus-thanks.png)
 
+### Future Features
 
+* __Gallery Image Slider__
+  * This possible feature would present the user with an image scroller when clicking on an image in the gallery.
+  * This would allow the user to view images in a larger format, and allow them to scroll through the images one by one.
 
-Create another subsection for features that could be implemented in future
+* __Schedule Calendar Link__
+  * This possible feature would offer the user an iCal link to the schedule, allowing them to add it to their own calendars with an updating link.
+
+* __Gallery Members Filter__
+  * This would allow user's to filter the gallery to photos taken by a specific member.
 
 ## Testing
 
