@@ -85,11 +85,42 @@ The purpose of the site is to provide a point of contact for the club/community 
 
 ## Testing
 
-Write about how i have tested the site. About how i have checked that the responsiveness works across different devices, browsers and so on to meet the broader audience's needs.
+### Validator Testing
 
-Create subsections for each method of testing, with screenshots where possible.
+* HTML
+  * [index.html](https://lukebinmore.github.io/Weston-Snapshots/index.html)
+    * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Findex.html)
+  * [gallery.html](https://lukebinmore.github.io/Weston-Snapshots/pages/gallery.html)
+    * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fgallery.html)
+  * [members.html](https://lukebinmore.github.io/Weston-Snapshots/pages/members.html)
+    * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fmembers.html)
+  * [joinus-form.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-form.html)
+    * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-form.html)
+  * [joinus-thanks.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-thanks.html)
+    * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-thanks.html)
 
-Create subsection for any bugs that haven't been resolved yet and why they haven't been resolved.
+* CSS
+  * [index.html](https://lukebinmore.github.io/Weston-Snapshots/index.html)
+    * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [gallery.html](https://lukebinmore.github.io/Weston-Snapshots/pages/gallery.html)
+    * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [members.html](https://lukebinmore.github.io/Weston-Snapshots/pages/members.html)
+    * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fmembers.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [joinus-form.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-form.html)
+    * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-form.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  * [joinus-thanks.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-thanks.html)
+    * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-thanks.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+
+### Device Testing
+
+### Chrome Dev-Tools Testing
+
+### Unfixed Bugs
+
+
+
+
 
 ## Deployment
 
