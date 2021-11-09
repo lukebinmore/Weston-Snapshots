@@ -1,8 +1,10 @@
 # Weston Snapshots!
 
-Write a couple of paragraphes on an overview of the project, What it is, who it is for, what it hopes to achieve, and so on.
+**Weston Snapshots** is a site aimed at those based in Weston-super-Mare with a passion or interest in photography, looking to join a club/community of people with the same or similar interests.
 
-Include image here from Am i responsive.
+The purpose of the site is to provide a point of contact for the club/community for new comers and interested members, as well as to act as an advertisement and informational page regarding the group and it's activities.
+
+![AmIResponsive](media/weston-snapshots-mockup.png)
 
 ## Features
 
