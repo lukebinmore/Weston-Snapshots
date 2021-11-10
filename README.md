@@ -85,7 +85,77 @@ The purpose of the site is to provide a point of contact for the club/community 
 
 ## Testing
 
-### Validator Testing
+### Automated Testing
+
+#### [Chrome DevTools - Lighthouse Report](https://developer.chrome.com/docs/devtools/)
+
+##### Summary: 
+
+* Desktop:
+  * All pages have reduced performance score due to image file sizes and format.
+    * Improved by compressing and converting all images to .jpg.
+  * All pages have 3% loss on accessibility score, due to home icon link in top left corner not having decernable text.
+    * Fixed by adding aria-label to icon.
+  * All pages have a best practice score of 100.
+  * All pages have an SEO score of 100.
+
+* Mobile:
+  * All pages have reduced performance score due to image file sizes.
+    * Improved with futher compression.
+  * Join Us Thanks page has drastically reduced performance score due to large icon.
+    * Fixed by replacing icon with image.
+  * All pages have an accessibility score of 100.
+  * All pages have a best practice score of 100.
+  * All pages have an SEO score of 100.
+
+<details>
+<summary>View Results</summary>
+
+* ##### Desktop Mode:
+
+###### Home
+![Chrome Devtools - Desktop Home](media/weston-snapshots-chromedev-desktop-home.png)
+###### Gallery
+![Chrome Devtools - Desktop Gallery](media/weston-snapshots-chromedev-desktop-gallery.png)
+###### Members
+![Chrome Devtools - Desktop Members](media/weston-snapshots-chromedev-desktop-members.png)
+###### Join Us - Form
+![Chrome Devtools - Desktop Join Us Form](media/weston-snapshots-chromedev-desktop-joinus-form.png)
+###### Join Us - Thanks
+![Chrome Devtools - Desktop Join Us Thanks](media/weston-snapshots-chromedev-desktop-joinus-thanks.png)
+
+* ##### Mobile Mode:
+
+###### Home
+![Chrome Devtools - Mobile Home](media/weston-snapshots-chromedev-desktop-home.png)
+###### Gallery
+![Chrome Devtools - Mobile Gallery](media/weston-snapshots-chromedev-desktop-gallery.png)
+###### Members
+![Chrome Devtools - Mobile Members](media/weston-snapshots-chromedev-desktop-members.png)
+###### Join Us - Form
+![Chrome Devtools - Mobile Join Us Form](media/weston-snapshots-chromedev-desktop-joinus-form.png)
+###### Join Us - Thanks
+![Chrome Devtools - Mobile Join Us Thanks](media/weston-snapshots-chromedev-desktop-joinus-thanks.png)
+
+</details>
+
+#### [Chrome DevTools - Lighthouse Report](https://developer.chrome.com/docs/devtools/)
+
+##### Summary:
+
+<details>
+<summary>View Results</summary>
+
+</details>
+
+#### Validator Testing
+
+##### Summary:
+
+All HTML and CSS pages passed validators with no errors or warnings.
+
+<details>
+<summary>View Results</summary>
 
 * HTML
   * [index.html](https://lukebinmore.github.io/Weston-Snapshots/index.html)
@@ -111,10 +181,11 @@ The purpose of the site is to provide a point of contact for the club/community 
   * [joinus-thanks.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-thanks.html)
     * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-thanks.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+</details>
 
-### Device Testing
+### Manual Testing
 
-### Chrome Dev-Tools Testing
+
 
 ### Unfixed Bugs
 
