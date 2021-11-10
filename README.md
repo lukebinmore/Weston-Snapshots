@@ -89,7 +89,7 @@ The purpose of the site is to provide a point of contact for the club/community 
 
 #### [Chrome DevTools - Lighthouse Report](https://developer.chrome.com/docs/devtools/)
 
-##### Summary: 
+**Summary:**
 
 * Desktop:
   * All pages have reduced performance score due to image file sizes and format.
@@ -111,40 +111,31 @@ The purpose of the site is to provide a point of contact for the club/community 
 <details>
 <summary>View Results</summary>
 
-* ##### Desktop Mode:
+* **Desktop Mode:**
 
-###### Home
+**Home**
 ![Chrome Devtools - Desktop Home](media/weston-snapshots-chromedev-desktop-home.png)
-###### Gallery
+**Gallery**
 ![Chrome Devtools - Desktop Gallery](media/weston-snapshots-chromedev-desktop-gallery.png)
-###### Members
+**Members**
 ![Chrome Devtools - Desktop Members](media/weston-snapshots-chromedev-desktop-members.png)
-###### Join Us - Form
+**Join Us - Form**
 ![Chrome Devtools - Desktop Join Us Form](media/weston-snapshots-chromedev-desktop-joinus-form.png)
-###### Join Us - Thanks
+**Join Us - Thanks**
 ![Chrome Devtools - Desktop Join Us Thanks](media/weston-snapshots-chromedev-desktop-joinus-thanks.png)
 
-* ##### Mobile Mode:
+* **Mobile Mode:**
 
-###### Home
+**Home**
 ![Chrome Devtools - Mobile Home](media/weston-snapshots-chromedev-desktop-home.png)
-###### Gallery
+**Gallery**
 ![Chrome Devtools - Mobile Gallery](media/weston-snapshots-chromedev-desktop-gallery.png)
-###### Members
+**Members**
 ![Chrome Devtools - Mobile Members](media/weston-snapshots-chromedev-desktop-members.png)
-###### Join Us - Form
+**Join Us - Form**
 ![Chrome Devtools - Mobile Join Us Form](media/weston-snapshots-chromedev-desktop-joinus-form.png)
-###### Join Us - Thanks
+**Join Us - Thanks**
 ![Chrome Devtools - Mobile Join Us Thanks](media/weston-snapshots-chromedev-desktop-joinus-thanks.png)
-
-</details>
-
-#### [Chrome DevTools - Lighthouse Report](https://developer.chrome.com/docs/devtools/)
-
-##### Summary:
-
-<details>
-<summary>View Results</summary>
 
 </details>
 
@@ -158,38 +149,196 @@ All HTML and CSS pages passed validators with no errors or warnings.
 <summary>View Results</summary>
 
 * HTML
-  * [index.html](https://lukebinmore.github.io/Weston-Snapshots/index.html)
+  * [Index](https://lukebinmore.github.io/Weston-Snapshots/index.html)
     * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Findex.html)
-  * [gallery.html](https://lukebinmore.github.io/Weston-Snapshots/pages/gallery.html)
+  * [Gallery](https://lukebinmore.github.io/Weston-Snapshots/pages/gallery.html)
     * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fgallery.html)
-  * [members.html](https://lukebinmore.github.io/Weston-Snapshots/pages/members.html)
+  * [Members](https://lukebinmore.github.io/Weston-Snapshots/pages/members.html)
     * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fmembers.html)
-  * [joinus-form.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-form.html)
+  * [Joinus Form](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-form.html)
     * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-form.html)
-  * [joinus-thanks.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-thanks.html)
+  * [Joinus Thanks](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-thanks.html)
     * No errors or warnings were returned when passing through the official [W3C Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-thanks.html)
 
 * CSS
-  * [index.html](https://lukebinmore.github.io/Weston-Snapshots/index.html)
+  * [Index](https://lukebinmore.github.io/Weston-Snapshots/index.html)
     * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-  * [gallery.html](https://lukebinmore.github.io/Weston-Snapshots/pages/gallery.html)
+  * [Gallery](https://lukebinmore.github.io/Weston-Snapshots/pages/gallery.html)
     * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-  * [members.html](https://lukebinmore.github.io/Weston-Snapshots/pages/members.html)
+  * [Members](https://lukebinmore.github.io/Weston-Snapshots/pages/members.html)
     * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fmembers.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-  * [joinus-form.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-form.html)
+  * [Joinus Form](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-form.html)
     * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-form.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-  * [joinus-thanks.html](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-thanks.html)
+  * [Joinus Thanks](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-thanks.html)
     * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-thanks.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 </details>
 
 ### Manual Testing
 
+##### Summary:
 
+A wide range of manual tests were carried out during the development of the site, and after completion both on desktop and mobile to confirm no bugs or issues remained.
+These tests were carried out on multiple devices, both physical and simulated, as well as in multiple browsers.
+All tests carried out: **PASSED**
+
+<details>
+<summary>Devices Tested</summary>
+
+<details>
+<summary>Physical Devices</summary>
+
+* Desktop PC (Windows 10)
+* Macbook Pro (OSX)
+* Samsung Galaxy S10+ (Android)
+* iPhone 11 (IOS)
+* Kindle Fire Tablet (FireOS)
+
+</details>
+<details>
+<summary>Simulated Devices</summary>
+
+Tested using [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
+
+* Moto G4
+* Nexus 10
+* Pixel 2
+* Pixel 2 XL
+* iPhone 5/SE
+* iPhone 6/7/8
+* iPhone 6/7/8 Plus
+* iPhone X
+* iPad
+* iPad Pro
+* Surface Duo
+* Nest Hub
+* Nest Hub Max
+
+</details>
+</details>
+
+<details>
+<summary>Browsers Tested</summary>
+
+* Chrome
+* Edge
+* Firefox
+* Opera
+* Safari
+* Silk Browser
+
+</details>
+
+<details>
+<summary>View Tests</summary>
+
+<details>
+<summary>Functional Tests</summary>
+
+* Site Header
+  * Check if header stays fixed when scrolling
+  * Check if content is not hidden behind header
+* Home Icon
+  * Check if link takes user back to the home page on all pages
+  * Check if the icon loads on all pages
+* Site Title
+  * Check if spelling is correct
+  * Check if positioning is correct
+* Navigation Menu
+  * Check if list shows in correct order
+  * Check if list is aligned properly on all pages
+  * Check if items link to correct pages
+  * Check if items change when hovered over
+  * Check if items change when on that page
+* Footer
+  * Check if footer stays fixed at bottom of window
+  * Check if content is not hidden behind footer
+* Social Links
+  * Check if all social links take user to correct site
+  * Check if all links open in new tab
+  * Check if all icons are aligned properly
+* Page Banners
+  * Check if all pages load banner image correctly
+  * Check if all pages banner is correctly sized and aligned
+  * Check if all banners have unique heading
+  * Check if all banners have unique phrase
+  * Check if banner text is positioned correctly
+  * Check if banner images complete correct animation on page load
+* Page Header
+  * Check if all pages load site header properly
+  * Check if all page headers have unique text
+  * Check if all page headers are correctly alligned
+  * Check if all page headers are correctly positioned
+* Home Page - Ethos
+  * Check if images load properly
+  * Check if text is sized properly
+  * Check if content is spaced and aligned properly
+* Home Page - Schedule
+  * Check if all schedule days are showing
+  * Check if all details are positioned and aligned correctly
+  * Check if each day's "More Details" section expands properly
+  * Check if icons display correctly
+* Gallery
+  * Check if all images load
+  * Check if all images are spaced correctly
+  * Check if all images are aligned correctly
+* Members
+  * Check if all images have correct shape
+  * Check if all names are spelt correctly
+  * Check if all names are aligned with the correct face
+* Join Us Form
+  * Check if all fields display correctly
+  * Check if all fields correctly adjust when hovered over
+  * Check if all fields accept input
+  * Check if all fields are aligned correctly
+  * Check if clear form button clears form
+  * Check if join the community! button submit's completed form correctly
+  * Check if all fields are required for successful submit
+* Join Us Thanks
+  * Check if camera image is positioned correctly
+  * Check if thank you text is aligned properly
+
+</details>
+
+<details>
+<summary>View Responsiveness Tests</summary>
+
+* @1200px
+  * Page Content Containers widens
+  * Footer Spacer widens
+  * Home page Ethos content blocks widden and reduce to two side by side
+  * Gallery reduces to two columns
+  * Members reduces to two columns
+* @1000px
+  * Gallery reduces to one column
+* @800px
+  * Header becomes relative
+  * Content isn't pushed too far down by header
+  * Title and menu center and stack
+  * Page Content containers widen to full screen width
+  * Footer spacer widens to full screen width
+  * Footer becomes relative
+  * Content isn't pushed away from footer
+  * Social Networks reduce spacing
+  * Members reduce to one column
+* @700px
+  * Home page Ethos content blocks widden and reduce to single stacked
+  * Home page Ethos blocks adjust height to fit content
+  * Home page Schedule text condenses into list
+* @500px
+  * Site title reduces size
+  * Navigation menu expands to full window width
+  * Navigation menu items removes roudned edges on hover
+  * Page title reduces size
+  * Join Us page form widdens to full window width
+  * Join Us page text reduces size
+  * Join Us page image widdens
+* @465px
+  * Home page Schedule text reduces size
+
+</details>
 
 ### Unfixed Bugs
-
-
 
 
 
