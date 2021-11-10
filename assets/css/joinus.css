@@ -67,11 +67,9 @@
 
 /* Section - joinus thanks - camera image*/
 #joinus-thanks img {
-    width: 500px;
-    height: 350px;
+    width: 50%;
     background-color: #fff;
     border-radius: 25px;
-    object-fit: cover;
 }
 
 /* Section - joinus thanks - heading*/
@@ -85,16 +83,6 @@
 }
 
 /* Media queries for smaller screened devices */
-/* For screens smaller than 800px */
-@media screen and (max-width: 800px) {
-
-    /* Section - joinus thanks - camera image*/
-    #joinus-thanks img {
-        width: 270px;
-        height: 200px;
-    }
-}
-
 /* For screens smaller than 500px */
 @media screen and (max-width: 500px) {
 
@@ -117,5 +105,10 @@
     /* Section - joinus thanks */
     #joinus-thanks {
         padding: 0 15px 15px 15px;
+    }
+
+    /* Section - joinus thanks - camera image*/
+    #joinus-thanks img {
+        width: 85%;
     }
 }
