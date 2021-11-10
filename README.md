@@ -114,27 +114,45 @@ The purpose of the site is to provide a point of contact for the club/community 
 * **Desktop Mode:**
 
 **Home**
+
 ![Chrome Devtools - Desktop Home](media/weston-snapshots-chromedev-desktop-home.png)
+
 **Gallery**
+
 ![Chrome Devtools - Desktop Gallery](media/weston-snapshots-chromedev-desktop-gallery.png)
+
 **Members**
+
 ![Chrome Devtools - Desktop Members](media/weston-snapshots-chromedev-desktop-members.png)
+
 **Join Us - Form**
+
 ![Chrome Devtools - Desktop Join Us Form](media/weston-snapshots-chromedev-desktop-joinus-form.png)
+
 **Join Us - Thanks**
+
 ![Chrome Devtools - Desktop Join Us Thanks](media/weston-snapshots-chromedev-desktop-joinus-thanks.png)
 
 * **Mobile Mode:**
 
 **Home**
+
 ![Chrome Devtools - Mobile Home](media/weston-snapshots-chromedev-desktop-home.png)
+
 **Gallery**
+
 ![Chrome Devtools - Mobile Gallery](media/weston-snapshots-chromedev-desktop-gallery.png)
+
 **Members**
+
 ![Chrome Devtools - Mobile Members](media/weston-snapshots-chromedev-desktop-members.png)
+
 **Join Us - Form**
+
 ![Chrome Devtools - Mobile Join Us Form](media/weston-snapshots-chromedev-desktop-joinus-form.png)
+
 **Join Us - Thanks**
+
 ![Chrome Devtools - Mobile Join Us Thanks](media/weston-snapshots-chromedev-desktop-joinus-thanks.png)
 
 </details>
@@ -185,36 +203,29 @@ All tests carried out: **PASSED**
 <details>
 <summary>Devices Tested</summary>
 
-<details>
-<summary>Physical Devices</summary>
+Simulated devices tested using [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
 
-* Desktop PC (Windows 10)
-* Macbook Pro (OSX)
-* Samsung Galaxy S10+ (Android)
-* iPhone 11 (IOS)
-* Kindle Fire Tablet (FireOS)
+* Physical Devices
+  * Desktop PC (Windows 10)
+  * Macbook Pro (OSX)
+  * Samsung Galaxy S10+ (Android)
+  * iPhone 11 (IOS)
+  * Kindle Fire Tablet (FireOS)
+* Simulated Devices
+  * Moto G4
+  * Nexus 10
+  * Pixel 2
+  * Pixel 2 XL
+  * iPhone 5/SE
+  * iPhone 6/7/8
+  * iPhone 6/7/8 Plus
+  * iPhone X
+  * iPad
+  * iPad Pro
+  * Surface Duo
+  * Nest Hub
+  * Nest Hub Max
 
-</details>
-<details>
-<summary>Simulated Devices</summary>
-
-Tested using [Chrome DevTools](https://developer.chrome.com/docs/devtools/)
-
-* Moto G4
-* Nexus 10
-* Pixel 2
-* Pixel 2 XL
-* iPhone 5/SE
-* iPhone 6/7/8
-* iPhone 6/7/8 Plus
-* iPhone X
-* iPad
-* iPad Pro
-* Surface Duo
-* Nest Hub
-* Nest Hub Max
-
-</details>
 </details>
 
 <details>
