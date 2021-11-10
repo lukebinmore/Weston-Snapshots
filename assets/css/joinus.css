@@ -65,9 +65,11 @@
     padding: 0 15% 20px 15%;
 }
 
-/* Section - joinus thanks - icon*/
-#joinus-thanks i {
-    font-size: 1900%;
+/* Section - joinus thanks - camera image*/
+#joinus-thanks img {
+    width: 50%;
+    background-color: #fff;
+    border-radius: 25px;
 }
 
 /* Section - joinus thanks - heading*/
@@ -103,5 +105,10 @@
     /* Section - joinus thanks */
     #joinus-thanks {
         padding: 0 15px 15px 15px;
+    }
+
+    /* Section - joinus thanks - camera image*/
+    #joinus-thanks img {
+        width: 85%;
     }
 }
