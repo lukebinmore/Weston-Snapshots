@@ -108,6 +108,9 @@ The purpose of the site is to provide a point of contact for the club/community 
     * Home Button
     * Schedule Icons
     * Social Links
+* [Gauger.io](https://gauger.io/fonticon/)
+  * Converter for Font Awesome icons to images
+    * Used to create image for favicon
 
 ### Image Compression / Manipulation
 
@@ -421,6 +424,8 @@ This site was deployed by completing the following steps:
 
 * [W3Schools](https://www.w3schools.com/)
   * Used for discovering specific element properties
+* [W3Schools - HTML Favicon](https://www.w3schools.com/html/html_favicon.asp)
+  * How to add a favicon to a website
 * [Stack Overflow](https://stackoverflow.com/)
   * Used for discovering specific element properties
 
