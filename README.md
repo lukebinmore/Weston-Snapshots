@@ -10,6 +10,13 @@ The purpose of the site is to provide a point of contact for the club/community 
 
 ### Existing Features
 
+* __Site Home Button And Title__ 
+  * This feature is found on every page of the site, and allows the user a quick and easy method of returning to the home page from any point in the site.
+  * Site pages included: Home, Gallery, Members, Join Us!
+  * This feature is responsive in design, and will remain at the top of the screen when scrolling unless on a small screen.
+
+![Navigation Menu](media/weston-snapshots-site-header.png)
+
 * __Nagigation Menu__
   * The navigation menu can be found on every page, and provides the user with the ability to easily navigate to any page on the site.
   * Site pages included: Home, Gallery, Members, Join Us!
@@ -24,7 +31,7 @@ The purpose of the site is to provide a point of contact for the club/community 
     * A page heading.
     * A short and interesting phrase relating to the page content.
 
-![Page Heading](media/weston-snapshots-page-heading.png)
+![Page Header](media/weston-snapshots-page-header.png)
 
 * __Footer__
   * The footer features provides quick access to social media sites relevant to Weston Snapshots.
@@ -56,7 +63,7 @@ The purpose of the site is to provide a point of contact for the club/community 
     * The amount they can learn and improve with the help of the group
     * The beautifull sites and locations in Weston-super-Mare that are ready and waiting to be photographed
 
-![Gallery](media/weston-snapshots-schedule.png)
+![Gallery](media/weston-snapshots-gallery.png)
 
 * __Members Page__
   * The members page shows the names and pictures of the current members (Those that have agreed to be included).
