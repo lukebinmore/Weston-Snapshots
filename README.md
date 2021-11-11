@@ -417,6 +417,15 @@ This site was deployed by completing the following steps:
 
 ## Credits
 
-Provide credit where neccessary. I've written everything myself, so it's mainly content such as images.
+### Information Sources/Resources
 
-Create a subsection for each type of content. E.G. Content on the site, Media e.c.t.
+* [W3Schools](https://www.w3schools.com/)
+  * Used for discovering specific element properties
+* [Stack Overflow](https://stackoverflow.com/)
+  * Used for discovering specific element properties
+
+### Content
+
+#### Images
+
+Provide credit where neccessary. I've written everything myself, so it's mainly content such as images.
