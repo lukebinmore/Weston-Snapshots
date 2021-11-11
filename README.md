@@ -1,4 +1,4 @@
-# Weston Snapshots!
+# Weston Snapshots! - [Live Site](https://lukebinmore.github.io/Weston-Snapshots/index.html)
 
 **Weston Snapshots** is a site aimed at those based in Weston-super-Mare with a passion or interest in photography, looking to join a club/community of people with the same or similar interests.
 
@@ -109,6 +109,13 @@ The purpose of the site is to provide a point of contact for the club/community 
     * Schedule Icons
     * Social Links
 
+### Image Compression / Manipulation
+
+* [Microsoft Photos](https://www.microsoft.com/en-gb/p/microsoft-photos/9wzdncrfjbh4?activetab=pivot:overviewtab)
+  * Used to crop members images to correct aspect ratio
+* [Adobe Photoshop CS6](https://www.adobe.com/uk/products/photoshop/landpa.html?gclid=CjwKCAiAm7OMBhAQEiwArvGi3DRoI4vzKuV46NP2gcY9uP-qUOFlsKnFpoS04HTPL7CH9dAaM9oYBBoCwRMQAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAiAm7OMBhAQEiwArvGi3DRoI4vzKuV46NP2gcY9uP-qUOFlsKnFpoS04HTPL7CH9dAaM9oYBBoCwRMQAvD_BwE:G:s&s_kwcid=AL!3085!3!520876516732!e!!g!!adobe%20photoshop%20cs6!1422700211!58647953911)
+  * Used to compress and convert images into .jpg
+
 ### Project Management
 
 * [GitHub](https://github.com/)
@@ -116,7 +123,12 @@ The purpose of the site is to provide a point of contact for the club/community 
 * [Visual Studio Code](https://code.visualstudio.com/)
   * IDE used for development of site
 
+### Learning/Information Resources
 
+* [W3Schools](https://www.w3schools.com/)
+  * Used for discovering specific element properties
+* [Stack Overflow](https://stackoverflow.com/)
+  * Used for discovering specific element properties
 
 ## Testing
 
