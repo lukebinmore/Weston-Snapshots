@@ -109,8 +109,8 @@ The purpose of the site is to provide a point of contact for the club/community 
     * Schedule Icons
     * Social Links
 * [Gauger.io](https://gauger.io/fonticon/)
-  * Converter for Font Awesome icons to images
-    * Used to create image for favicon
+  * Tool to download Font Awesome icons
+    * Used to create .ico for favicon
 
 ### Image Compression / Manipulation
 
