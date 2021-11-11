@@ -90,6 +90,34 @@ The purpose of the site is to provide a point of contact for the club/community 
 * __Gallery Members Filter__
   * This would allow user's to filter the gallery to photos taken by a specific member.
 
+## Technologies Used
+
+### Languages
+
+* HTML5
+* CSS3
+
+### Stylings/Theme
+
+* [Google Fonts](https://fonts.google.com/)
+  * Font's used for site:
+    * Anton
+    * Comfortaa
+* [Font Awesome](https://fontawesome.com/)
+  * Icon's used across the site:
+    * Home Button
+    * Schedule Icons
+    * Social Links
+
+### Project Management
+
+* [GitHub](https://github.com/)
+  * Used for version control, hosting and deployment
+* [Visual Studio Code](https://code.visualstudio.com/)
+  * IDE used for development of site
+
+
+
 ## Testing
 
 ### Automated Testing
