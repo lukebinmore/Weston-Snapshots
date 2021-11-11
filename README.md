@@ -359,7 +359,7 @@ Simulated devices tested using [Chrome DevTools](https://developer.chrome.com/do
 
 ### Unfixed Bugs
 
-
+* Currently no known bugs or issues found.
 
 ## Deployment
 
