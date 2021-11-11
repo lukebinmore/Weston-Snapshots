@@ -243,7 +243,6 @@ Simulated devices tested using [Chrome DevTools](https://developer.chrome.com/do
 <details>
 <summary>View Tests</summary>
 
-
 <details>
 <summary>Functional Tests</summary>
 
