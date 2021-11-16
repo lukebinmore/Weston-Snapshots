@@ -148,6 +148,7 @@ header {
 /* Section - heading */
 #heading {
     font-size: 160%;
+    margin-bottom: 10px;
 }
 
 /* Section - section container */
