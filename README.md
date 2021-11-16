@@ -158,6 +158,8 @@ The purpose of the site is to provide a point of contact for the club/community 
   * All pages have a best practice score of 100.
   * All pages have an SEO score of 100.
 
+**(NOTE)** - All checks re-completed after image changes.
+
 <details>
 <summary>View Results</summary>
 
@@ -433,4 +435,4 @@ This site was deployed by completing the following steps:
 
 #### Images
 
-Provide credit where neccessary. I've written everything myself, so it's mainly content such as images.
+All images provided obtained from [Pixels.com](https://www.pexels.com/)
