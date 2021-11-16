@@ -242,6 +242,8 @@ All HTML and CSS pages passed validators with no errors or warnings.
   * [Joinus Thanks](https://lukebinmore.github.io/Weston-Snapshots/pages/joinus-thanks.html)
     * No errors or warnings were returned when passing through the official [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Flukebinmore.github.io%2FWeston-Snapshots%2Fpages%2Fjoinus-thanks.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+**(NOTE)** - All checks re-completed after image changes and code commenting/cleanup.
+
 </details>
 
 ### Manual Testing
